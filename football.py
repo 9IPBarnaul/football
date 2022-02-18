@@ -25,7 +25,7 @@ pl4.move(350, 350)
 b = Ball()
 b.speed = [0, 1.5]
 
-b2 = Balll()
+b2 = Ball()
 
 g1 = Gate(x=150, y=400)
 g2 = Gate(x=250, y=0)
