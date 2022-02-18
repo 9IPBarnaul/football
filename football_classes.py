@@ -6,7 +6,7 @@ pygame.font.init()
 
 
 class GameObject(pygame.sprite.Sprite):
-    """Класс для описания отрисовки всех игровых объектов"""
+    """Класс для оисания отрисовки всех игровых объектов"""
 
     def __init__(self, x=0, y=0, xrec=50, yrec=50):
         """Конструктор класса GameObject"""
