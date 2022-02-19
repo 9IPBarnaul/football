@@ -16,6 +16,7 @@ print("Положение игрока 1:", pl1.position)
 pl2.move(30, 40)
 print(pl2)  # используем метод __str__ для вывода
 
+
 # вторая команда "green"
 pl3 = Player("1", "green")
 pl4 = Player("2", "green")
