@@ -4,7 +4,7 @@ from football_classes import *
 person1 = Person()  # создаем человека
 print("Положение человека 1:", person1.position)
 person1.move(1, 1)  # отдаем команду человеку переместиться
-print("Положение человека 1 после перемещения:", person1.position)
+print("Положене человека 1 после перемещения:", person1.position)
 
 
 # первая команда "blue"
